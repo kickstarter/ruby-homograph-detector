@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name = 'homograph-detector'
-  spec.version = '0.1.0'
+  spec.version = '0.1.1'
   spec.authors = 'Kickstarter Engineering'
   spec.email = 'eng@kickstarter.com'
   spec.summary = %q{Ruby Gem used for homograph detection}
