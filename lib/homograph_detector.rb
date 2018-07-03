@@ -3,6 +3,7 @@
 require 'addressable/uri'
 require 'unicode/confusable'
 require 'unicode/scripts'
+require 'set'
 
 class HomographDetector
   # Unicode Script names returned by the 'unicode-scripts' gem
